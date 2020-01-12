@@ -1,0 +1,8 @@
+{
+  "name": "studious",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:itomizu/studious.git",
+  "author": "Jutora <jun.ito@kiramex.com>",
+  "license": "MIT"
+}
